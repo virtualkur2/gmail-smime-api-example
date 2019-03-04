@@ -1,0 +1,24 @@
+{
+  "name": "smime-api-example",
+  "version": "1.0.0",
+  "description": "An app for example of use of the SMIME API Gmail API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualkur2/gmail-smime-api-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/virtualkur2/gmail-smime-api-example/issues"
+  },
+  "homepage": "https://github.com/virtualkur2/gmail-smime-api-example#readme",
+  "keywords": [
+    "smime",
+    "gmail",
+    "api"
+  ],
+  "author": "Mauricio Contreras",
+  "license": "MIT"
+}
